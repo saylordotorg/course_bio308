@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO308: Marine Biology"
+course_description: "A detailed introduction to the field of Marine Biology, from a survey of the origin of oceans and their movements to details of marine food webs, life cycles, and marine zonation. Particular emphasis on marine environment and ecology, taxonomy and physiology, and contemporary concerns in the field, including human influences on marine systems.
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Ocean Environment** <span id="1"></span> 
 *While the ecology and community relationships of marine organisms are
 in some ways very similar to those of terrestrial organisms, species

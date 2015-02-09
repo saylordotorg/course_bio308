@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO308: Marine Biology"
+course_description: "A detailed introduction to the field of Marine Biology, from a survey of the origin of oceans and their movements to details of marine food webs, life cycles, and marine zonation. Particular emphasis on marine environment and ecology, taxonomy and physiology, and contemporary concerns in the field, including human influences on marine systems.
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Life Cycles** <span id="3"></span> 
 *There are many different ways to classify marine animals.  Some of the
 most basic have to do with how they develop as embryos; how they

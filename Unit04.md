@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO308: Marine Biology"
+course_description: "A detailed introduction to the field of Marine Biology, from a survey of the origin of oceans and their movements to details of marine food webs, life cycles, and marine zonation. Particular emphasis on marine environment and ecology, taxonomy and physiology, and contemporary concerns in the field, including human influences on marine systems.
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Marine Life** <span id="4"></span> 
 *When children say they want to study marine biology, it usually means
 that they want to study whales or dolphins or seals.  Not that there is
