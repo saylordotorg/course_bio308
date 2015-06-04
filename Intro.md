@@ -168,3 +168,13 @@ before you learn about the details of a particular phylum or species.
 resources if you encounter a term or concept that feels familiar but
 that you cannot quite remember.  Marine biology is a lot of fun, but it
 encompasses a lot of information.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio308/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio308/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio308/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio308/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio308/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio308/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio308/Unit07/)
