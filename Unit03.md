@@ -171,11 +171,11 @@ id="3.3.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “The Lists of Love”**
     Link: The Saylor Foundation’s “[The Lists of
-    Love](http://www.saylor.org/site/wp-content/uploads/2012/01/BIO308-Unit-3-The-Lists-of-Love-Assignment-FINAL.pdf)”
+    Love](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-3-The-Lists-of-Love-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/01/BIO308-Unit-3-The-Lists-of-Love-Answer-Key-FINAL.pdf). 
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-3-The-Lists-of-Love-Answer-Key-FINAL.pdf). 
 
 

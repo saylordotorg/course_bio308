@@ -413,11 +413,11 @@ reading below subunit 1.1.*
 
 -   **Assessment: The Saylor Foundation’s “Time and Tide”**
     Link: The Saylor Foundation’s “[Time and
-    Tide](http://www.saylor.org/site/wp-content/uploads/2011/12/BIO308-Unit-1-Time-and-Tide-FINAL.pdf)”
+    Tide](https://resources.saylor.org/archived/wp-content/uploads/2011/12/BIO308-Unit-1-Time-and-Tide-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](http://www.saylor.org/site/wp-content/uploads/2011/12/BIO308-Unit-1-Time-and-Tide-Answer-Key-FINAL.pdf). 
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/12/BIO308-Unit-1-Time-and-Tide-Answer-Key-FINAL.pdf). 
 
 
