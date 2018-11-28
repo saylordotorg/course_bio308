@@ -243,11 +243,11 @@ id="2.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Your Own Food Web”**
     Link: The Saylor Foundation’s “[Your Own Food
-    Web](https://resources.saylor.org/archived/wp-content/uploads/2011/12/BIO308-Unit-2-Create-Your-Own-Food-Web-FINAL.pdf)”
+    Web](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/BIO308-Unit-2-Create-Your-Own-Food-Web-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2011/12/BIO308-Unit-2-Create-Your-Own-Food-Web-Answer-Key-FINAL.pdf). 
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/BIO308-Unit-2-Create-Your-Own-Food-Web-Answer-Key-FINAL.pdf). 
 
 

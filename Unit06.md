@@ -419,11 +419,11 @@ to scientific articles and the methods used in research.*
 
 -   **Assessment: The Saylor Foundation’s “The Present and Future”**
     Link: The Saylor Foundation’s “[The Present and
-    Future](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-6-The-Present-and-Future-Assignment-FINAL.pdf)”
+    Future](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-6-The-Present-and-Future-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-6-The-Present-and-Future-Assignment-Answer-Key-FINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-6-The-Present-and-Future-Assignment-Answer-Key-FINAL.pdf).
 
 
