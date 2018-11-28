@@ -260,11 +260,11 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “This Is Why Researchers Get
     Travel Grants”**
     Link: The Saylor Foundation’s “[This Is Why Researchers Get Travel
-    Grants](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-5-This-Is-Why-Researchers-Get-Travel-Grants-FINAL.pdf)”
+    Grants](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-5-This-Is-Why-Researchers-Get-Travel-Grants-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-5-This-Is-Why-Researchers-Get-Travel-Grants-Answer-Key-FINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-5-This-Is-Why-Researchers-Get-Travel-Grants-Answer-Key-FINAL.pdf).
 
 

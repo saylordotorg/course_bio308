@@ -803,11 +803,11 @@ id="4.11"></span> 
 -   **Assessment: The Saylor Foundation’s “Species Specific Horseshoe
     Crabs”**
     Link: The Saylor Foundation’s “[Species Specific Horseshoe
-    Crabs](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-4-Species-Specific-Horseshoe-Crabs-Assignment-FINAL.pdf)”
+    Crabs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-4-Species-Specific-Horseshoe-Crabs-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the answer key
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO308-Unit-4-Species-Specific-Horseshoe-Crabs-Answer-Key-FINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO308-Unit-4-Species-Specific-Horseshoe-Crabs-Answer-Key-FINAL.pdf).
 
 
